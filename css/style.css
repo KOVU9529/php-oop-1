@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+body{
+    color: white;
+    text-align: center;
+    background-image: url(astroDESERTO.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
